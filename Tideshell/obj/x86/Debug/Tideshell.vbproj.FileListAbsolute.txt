@@ -1,0 +1,10 @@
+C:\TideshellRelease\Tideshell.exe
+C:\TideshellRelease\Tideshell.pdb
+C:\TideshellRelease\Tideshell.xml
+C:\Users\Andrew\Desktop\Tideshell\Tideshell\obj\x86\Debug\Tideshell.Resources.resources
+C:\Users\Andrew\Desktop\Tideshell\Tideshell\obj\x86\Debug\Tideshell.Control.resources
+C:\Users\Andrew\Desktop\Tideshell\Tideshell\obj\x86\Debug\Tideshell.Tide.resources
+C:\Users\Andrew\Desktop\Tideshell\Tideshell\obj\x86\Debug\Tideshell.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Tideshell\Tideshell\obj\x86\Debug\Tideshell.exe
+C:\Users\Andrew\Desktop\Tideshell\Tideshell\obj\x86\Debug\Tideshell.xml
+C:\Users\Andrew\Desktop\Tideshell\Tideshell\obj\x86\Debug\Tideshell.pdb

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tideshell
+</name>
+</assembly>
+<members>
+<member name="P:Tideshell.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.about">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.imageres_27">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.logo">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.Reset">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.Timr">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.update">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.User">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tideshell.My.Resources.Resources.wallpaper">
+	<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Tideshell.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+</members>
+</doc>
